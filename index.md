@@ -7,7 +7,7 @@ layout: default
 * * *
 
 
-## [&#x2740只有多难，没有兴邦](./page/essay-1.html)
+## [/bigstar只有多难，没有兴邦](./page/essay-1.html)
 2020年3月19日
 
 <dl>
