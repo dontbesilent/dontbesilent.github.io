@@ -6,12 +6,9 @@ layout: default
 
 * * *
 
-
-## [只有多难，没有兴邦](./page/essay-1.html)
 2020年3月19日
+## [只有多难，没有兴邦](./page/essay-1.html)
 
-## [sss ]()
-2020
 
 <dl>
 <dt>Email</dt>
